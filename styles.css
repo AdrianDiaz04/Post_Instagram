@@ -1,0 +1,100 @@
+body{background-color: black;}
+
+.body{
+    display: flex;
+    height: 50%;
+    width: 100%;
+    margin: 0%;
+    flex-direction:column;
+    align-items: center;
+}
+
+.post{
+    display: flex;
+    background-color: white;
+    width: 648px;
+    height:50% ;
+}
+
+.jhon{
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0%;
+}
+
+.espacio{
+    display: flex;
+    background-color: white;
+    width: 648px;
+    height:50% ;
+    margin:0 auto;
+}
+
+.linea{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    width: 648px;
+    height:10% ;
+    margin:0 auto;
+}
+
+
+.ig{
+    display: flex;
+    background-color: white;
+    margin:0%;
+    width:648px;
+    height:auto;
+    align-content:space-between;
+}
+
+.ig2{
+    display: flex;
+    background-color: white;
+    width: 50%;
+    height: 50%;
+    justify-content: right;
+    flex: auto;
+    position: relative;
+	left: +0px;
+	top: +15px;
+}
+
+.img{
+    display: flex;
+    height: 50%;;
+    width: 50%;
+    align-content: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.img2{
+    display: flex;
+    height: 50%;;
+    width: 648px;
+    align-content: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.html5{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    position: relative;
+	left: +5px;
+	top: +15px;
+}
+
+.otro{
+    position: relative;
+	left: +5px;
+	top: +15px;
+}
+
+.p{
+    position: relative;
+	left: +15px;
+	top: +15px;
+}
